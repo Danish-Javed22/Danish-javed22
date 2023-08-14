@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danish javed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<iframe src="https://gifer.com/embed/75ez" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-
+<img align="right" alt="Coding" width="400" src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=danish-javed22&label=Profile%20views&color=0e75b6&style=flat" alt="danish-javed22" /> </p>"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish-javed22&label=Profile%20views&color=0e75b6&style=flat" alt="danish-javed22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danish-javed22" alt="danish-javed22" /></a> </p>
