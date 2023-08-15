@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Danish javed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-![Alt Text](![image](https://github.com/Danish-Javed22/Danish-javed22/assets/142260013/19e8bcf1-bee5-408f-8523-e81ef6021b75)
-)
+![Alt Text](https://github.com/Danish-Javed22/Danish-javed22/blob/main/assets/142260013/19e8bcf1-bee5-408f-8523-e81ef6021b75.png)
+
 
 
 
