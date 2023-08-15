@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danish javed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img src="(https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif)" alt="Description of the image">
+<img src="(https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif)" alt="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
 
 
 
