@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danish javed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-[<img src="[<img src="your-gif-url.gif](https://www.callcentrehelper.com/images/stories/2020/10/data-analysis-charts-760.png)" alt="Description of the GIF" width="300" height="200">
-" alt="Description of the GIF" width="300" height="200">](https://www.callcentrehelper.com/images/stories/2020/10/data-analysis-charts-760.png)
+![image](https://github.com/Danish-Javed22/Danish-javed22/assets/142260013/3c346b20-7e5f-4d06-af34-794f79d9e298)
+
 
 
 - 🔭 I’m currently working on **Dashboard building and power BI**
